@@ -24,7 +24,7 @@ int main() {
     
     totalVolume = volume(box1Height, box1Width, box1Length)
              + volume(box2Height, box2Width, box2Length);
-             
+    cout << "\n";        
     cout << "Volume of Box is " << totalVolume << endl;
     
     return 0;
